@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>the social web</name>
+    <description/>
+    <Style>
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+     <Folder>
+      <name>assignment 2</name>
+      <Placemark>
+        <name>task 1</name>
+        <description>amsterdam</description>
+        <styleUrl>#pushpin</styleUrl>
+        <Point>
+          <coordinates>
+            4.8847719,52.3792145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
