@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style>
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Google West Campus 1</name>
+      <styleUrl>task 1</styleUrl>
+      <Point>
+        <coordinates>52.367,4.900,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
